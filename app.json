@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "voumema",
+    "slug": "voumema",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

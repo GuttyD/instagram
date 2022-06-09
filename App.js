@@ -11,7 +11,7 @@ export default function App() {
       <SafeAreaView style={styles.feed}>
         <Header/>
         <Story/>
-        <ScrollView>
+          <ScrollView>
             <Caixas/>
             <Caixas/>
             <Caixas/>
@@ -20,7 +20,8 @@ export default function App() {
             <Caixas/>
             <Caixas/>
             <Caixas/>
-        </ScrollView>
+          </ScrollView>
+        <Barra/>
         <StatusBar hidden/>
     </SafeAreaView>
   );
